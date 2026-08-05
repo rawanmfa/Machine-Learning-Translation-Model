@@ -1,0 +1,1 @@
+Bilingual Sentence Pairs dataset link: https://www.kaggle.com/datasets/alincijov/bilingual-sentence-pairs
